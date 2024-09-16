@@ -27,4 +27,4 @@ This project involves the analysis of movie data to explore patterns and prefere
 3. Run the notebook to reproduce the analysis and explore the visualizations.
 
 ## Contact
-For any questions or suggestions, please reach out to [Your Contact Information].
+For any questions or suggestions, please reach out to ashkanpirastehfar@gmail.com.
